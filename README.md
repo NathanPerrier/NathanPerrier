@@ -35,9 +35,4 @@ I'm a software developer, always eager to explore new technologies, frameworks a
 - **Instagram:** [@nathan_perrier23](https://www.instagram.com/nathan_perrier23/)
 - **Github:** [@NathanPerrier](https://github.com/NathanPerrier/)
 
-
-<!--START_SECTION:waka-->
-```text
-[Programming Language]  X hrs XX mins █████████████████▒░░░░░░░   69.9% 
-[Another Language]      X hrs XX mins █████████▓░░░░░░░░░░░░░░░░   30.1%
-```
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NathanPerrier&layout=compact)
