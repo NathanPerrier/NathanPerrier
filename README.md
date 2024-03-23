@@ -13,7 +13,7 @@
 
 ## Welcome to my GitHub profile!
 
-I'm a software developer, always eager to explore new technologies, frameworks and languages. I have a keen interest in website development and machine learning, with my predominant coding language being Python.
+I'm a software developer that thrives on exploring new technologies, frameworks and languages. I have a vast interest in website development and machine learning, with my predominant coding language being Python.
 
 
 ### 🛠 Favourite Projects
