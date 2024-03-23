@@ -16,12 +16,14 @@
 I'm a software developer, always eager to explore new technologies, frameworks and languages. I have a keen interest in website development and machine learning, with my predominant coding language being Python.
 
 
-### 🛠 Projects
-- [ATC Weather Website](https://github.com/NathanPerrier/IA1-Weather-App-Django): A weather app with a Netflix-inspired design that utilizes the BOM API and OpenAI API for a futuristic weather experience.
+### 🛠 Favourite Projects
+- [ATC Weather Website](https://github.com/NathanPerrier/IA1-Weather-App-Django): A Django weather website with a Netflix-inspired design that utilizes the BOM API and OpenAI API for a futuristic weather experience.
+- [ATC Blogging Website](https://github.com/NathanPerrier/Y11-T4-ATC-Blogging-Website): A Flask blogging website created for Ambrose Treacy's English Department. 
+- [Pathfinding Snake](https://github.com/NathanPerrier/Y11-T1-Pathfinding-Snake): A pathfinding snake built using the A* pathfinding algorithm and Pygame
 
 
 ### 🏫 Education
-[![Ambrose Treacy College](https://github.com/NathanPerrier/NathanPerrier/profile/Assets/atc-crest-white)](https://www.atc.qld.edu.au/) A Catholic all-boys school in Indooroopilly, Brisbane in the Edmund Rice Tradition.
+- [![Ambrose Treacy College](https://github.com/NathanPerrier/NathanPerrier/profile/Assets/atc-crest-white)](https://www.atc.qld.edu.au/) A Catholic all-boys school in Indooroopilly, Brisbane in the Edmund Rice Tradition.
 
 ### 🏆 Achievements
 
