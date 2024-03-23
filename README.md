@@ -1,6 +1,18 @@
 [![](https://github.com/NathanPerrier/NathanPerrier/profile/Assets/school.gif)](https://github.com/NathanPerrier)
 
-# Hi, I'm Nathan Perrier 👋                               ![GitHub followers](https://img.shields.io/github/followers/NathanPerrier?label=Followers&style=social)     ![GitHub stars](https://img.shields.io/github/stars/NathanPerrier?label=Stars&style=social)
+<p align="left">
+  <samp>
+    <b>Hi, I'm Nathan Perrier 👋</b>
+  </samp>
+  <span align="right">
+    <a href="https://github.com/NathanPerrier?tab=followers">
+      <img src="https://img.shields.io/github/followers/NathanPerrier?label=Followers&style=social" alt="GitHub followers">
+    </a>
+    <a href="https://github.com/NathanPerrier?tab=stars">
+      <img src="https://img.shields.io/github/stars/NathanPerrier?label=Stars&style=social" alt="GitHub stars">
+    </a>
+  </span>
+</p>
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=NathanPerrier" alt="GitHub streak stats" style="width: 48%;  height: 160px"/>
