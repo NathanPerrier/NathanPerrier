@@ -35,4 +35,7 @@ I'm a software developer, always eager to explore new technologies, frameworks a
 - **Instagram:** [@nathan_perrier23](https://www.instagram.com/nathan_perrier23/)
 - **Github:** [@NathanPerrier](https://github.com/NathanPerrier/)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NathanPerrier&layout=compact)
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NathanPerrier&layout=compact" style="width: 100%;">
+</p>
