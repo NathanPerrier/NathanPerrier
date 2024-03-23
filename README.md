@@ -17,6 +17,24 @@ I'm a software developer, always eager to explore new technologies, frameworks a
 
 
 ### 🛠 Favourite Projects
+<p align="center">
+  <a href="https://github.com/NathanPerrier/IA1-Weather-App-Django">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=NathanPerrier&repo=IA1-Weather-App-Django" alt="IA1-Weather-App-Django">
+  </a>
+  <a href="https://github.com/NathanPerrier/Y11-T4-ATC-Blogging-Website">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=NathanPerrier&repo=Y11-T4-ATC-Blogging-Website" alt="Y11-T4-ATC-Blogging-Website">
+  </a>
+</p>
+<p align="center">
+  <a href="https://github.com/NathanPerrier/Y11-T1-Pathfinding-Snake">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=NathanPerrier&repo=Y11-T1-Pathfinding-Snake" alt="Y11-T1-Pathfinding-Snake">
+  </a>
+  <a href="https://github.com/NathanPerrier/Y11-T3-Babyname-Generator-Flask">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=NathanPerrier&repo=Y11-T3-Babyname-Generator-Flask" alt="Y11-T3-Babyname-Generator-Flask">
+  </a>
+</p>
+
+
 - [ATC Weather Website](https://github.com/NathanPerrier/IA1-Weather-App-Django): A Django weather website with a Netflix-inspired design that utilizes the BOM API and OpenAI API for a futuristic weather experience.
 - [ATC Blogging Website](https://github.com/NathanPerrier/Y11-T4-ATC-Blogging-Website): A Flask blogging website created for Ambrose Treacy's English Department. 
 - [Pathfinding Snake](https://github.com/NathanPerrier/Y11-T1-Pathfinding-Snake): A pathfinding snake built using the A* pathfinding algorithm and Pygame
@@ -33,8 +51,6 @@ I'm a software developer, always eager to explore new technologies, frameworks a
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NathanPerrier&layout=compact" style="width: 100%; height:150px;">
 </p>
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=NathanPerrier&repo=IA1-Weather-App-Django)](https://github.com/NathanPerrier/RepoName)
 
 
 ### 📫 How to reach me ...
