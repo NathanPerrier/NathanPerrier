@@ -36,7 +36,7 @@ I'm a software developer, always eager to explore new technologies, frameworks a
 
 
 ### 🏫 Education
-- [![Ambrose Treacy College](https://github.com/NathanPerrier/NathanPerrier/tree/main/Assets/atc-crest-white.svg)](https://www.atc.qld.edu.au/) A Catholic all-boys school in Indooroopilly, Brisbane in the Edmund Rice Tradition.
+- [![Ambrose Treacy College](Assets/atc-crest-white.svg)](https://www.atc.qld.edu.au/) A Catholic all-boys school in Indooroopilly, Brisbane in the Edmund Rice Tradition.
 
 ### 🏆 Achievements
 
