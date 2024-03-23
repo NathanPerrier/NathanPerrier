@@ -43,7 +43,10 @@ I'm a software developer, always eager to explore new technologies, frameworks a
 ![GitHub Trophy](https://github-profile-trophy.vercel.app/?username=NathanPerrier)
 
 ### 💻 Experience
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NathanPerrier&langs_count=10)
+<table><tr>
+<td><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NathanPerrier&langs_count=10&hide=java,html,css,javascript,typescript,php,ruby,swift,kotlin" /></td>
+<td><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NathanPerrier&langs_count=10&hide=python,html,css,javascript,typescript,php,ruby,swift,kotlin" /></td>
+</tr></table>
 
 
 
