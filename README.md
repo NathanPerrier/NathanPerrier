@@ -35,11 +35,6 @@ I'm a software developer, always eager to explore new technologies, frameworks a
 </p>
 
 
-- [ATC Weather Website](https://github.com/NathanPerrier/IA1-Weather-App-Django): A Django weather website with a Netflix-inspired design that utilizes the BOM API and OpenAI API for a futuristic weather experience.
-- [ATC Blogging Website](https://github.com/NathanPerrier/Y11-T4-ATC-Blogging-Website): A Flask blogging website created for Ambrose Treacy's English Department. 
-- [Pathfinding Snake](https://github.com/NathanPerrier/Y11-T1-Pathfinding-Snake): A pathfinding snake built using the A* pathfinding algorithm and Pygame
-
-
 ### 🏫 Education
 - [![Ambrose Treacy College](https://github.com/NathanPerrier/NathanPerrier/tree/main/Assets/atc-crest-white.svg)](https://www.atc.qld.edu.au/) A Catholic all-boys school in Indooroopilly, Brisbane in the Edmund Rice Tradition.
 
@@ -48,9 +43,8 @@ I'm a software developer, always eager to explore new technologies, frameworks a
 ![GitHub Trophy](https://github-profile-trophy.vercel.app/?username=NathanPerrier)
 
 ### 💻 Experience
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NathanPerrier&layout=compact" style="width: 100%; height:150px;">
-</p>
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NathanPerrier&langs_count=10)
+
 
 
 ### 📫 How to reach me ...
