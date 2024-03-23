@@ -36,7 +36,7 @@ I'm a software developer, always eager to explore new technologies, frameworks a
 
 
 ### 🏫 Education
-- <a href="https://www.atc.qld.edu.au/"><img src="Assets/atc-main.png" style="width:20px"></a> A Catholic all-boys school in Indooroopilly, Brisbane in the Edmund Rice Tradition.
+- <a href="https://www.atc.qld.edu.au/"><img src="Assets/atc-main.png" style="width:15px"></a> A Catholic all-boys school in Indooroopilly, Brisbane in the Edmund Rice Tradition.
 
 ### 🏆 Achievements
 
