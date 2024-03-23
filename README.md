@@ -1,7 +1,8 @@
 [![](https://github.com/NathanPerrier/NathanPerrier/profile/Assets/school.gif)](https://github.com/NathanPerrier)
 # Hi, I'm Nathan Perrier 👋
 
-![Profile views](https://gpvc.arturio.dev/NathanPerrier)
+![GitHub followers](https://img.shields.io/github/followers/NathanPerrier?label=Followers&style=social)
+![GitHub stars](https://img.shields.io/github/stars/NathanPerrier?label=Stars&style=social)
 
 ---
 
