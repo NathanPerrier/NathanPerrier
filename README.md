@@ -1,13 +1,30 @@
-[![](https://github.com/NathanPerrier/.github/profile/Assets/school.gif)](https://github.com/NathanPerrier)
+[![](https://github.com/NathanPerrier/NathanPerrier/profile/Assets/school.gif)](https://github.com/NathanPerrier)
 # Hi, I'm Nathan Perrier 👋
 
+![Profile views](https://gpvc.arturio.dev/NathanPerrier)
+
 ---
+
+## Welcome to my GitHub profile!
+
+I'm a software developer, always eager to explore new technologies and contribute to innovative projects. With a keen interest in website development and machine learning, I'm on a journey to make a difference through code.
+
+
 ### 🛠 Projects
 - [ATC Weather Website](https://github.com/NathanPerrier/IA1-Weather-App-Django): A weather app with a Netflix-inspired design that utilizes the BOM API and OpenAI API for a futuristic weather experience.
 
 
-
-
 ### 🏫 Education
-[![Ambrose Treacy College](https://github.com/NathanPerrier/.github/profile/Assets/atc-crest-white)](https://www.atc.qld.edu.au/) 
+[![Ambrose Treacy College](https://github.com/NathanPerrier/NathanPerrier/profile/Assets/atc-crest-white)](https://www.atc.qld.edu.au/) A Catholic all-boys school in Indooroopilly, Brisbane in the Edmund Rice Tradition.
 
+### 📫 How to reach me ...
+
+- **Personal Email:** [nathanperrier23@gmail.com]
+- **Instagram:** [@nathan_perrier23](https://www.instagram.com/nathan_perrier23/)
+- **Github:** [@NathanPerrier](https://github.com/NathanPerrier/)
+
+
+<!--START_SECTION:waka-->
+```text
+[Programming Language]  X hrs XX mins █████████████████▒░░░░░░░   69.9% 
+[Another Language]      X hrs XX mins █████████▓░░░░░░░░░░░░░░░░   30.1%
