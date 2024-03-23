@@ -13,7 +13,7 @@
 
 ## Welcome to my GitHub profile!
 
-I'm a software developer, always eager to explore new technologies and contribute to innovative projects. With a keen interest in website development and machine learning, I'm on a journey to make a difference through code.
+I'm a software developer, always eager to explore new technologies, frameworks and languages. I have a keen interest in website development and machine learning, with my predominant coding language being Python.
 
 
 ### 🛠 Projects
@@ -38,3 +38,4 @@ I'm a software developer, always eager to explore new technologies and contribut
 ```text
 [Programming Language]  X hrs XX mins █████████████████▒░░░░░░░   69.9% 
 [Another Language]      X hrs XX mins █████████▓░░░░░░░░░░░░░░░░   30.1%
+```
