@@ -19,7 +19,7 @@ I'm a software developer, always eager to explore new technologies and contribut
 
 ### 📫 How to reach me ...
 
-- **Personal Email:** [nathanperrier23@gmail.com]
+- **Personal Email:** [nathanperrier23@gmail.com](https://gmail.com)
 - **Instagram:** [@nathan_perrier23](https://www.instagram.com/nathan_perrier23/)
 - **Github:** [@NathanPerrier](https://github.com/NathanPerrier/)
 
