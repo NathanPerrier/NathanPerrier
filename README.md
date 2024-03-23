@@ -3,10 +3,11 @@
 
 ![GitHub followers](https://img.shields.io/github/followers/NathanPerrier?label=Followers&style=social)     ![GitHub stars](https://img.shields.io/github/stars/NathanPerrier?label=Stars&style=social)
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=NathanPerrier" alt="GitHub streak stats" style="width: 48%;"/>
-  <img src="https://github-readme-stats.vercel.app/api?username=NathanPerrier&show_icons=true" alt="Nathan's GitHub stats" style="width: 48%;"/>
-</p>
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=NathanPerrier" alt="GitHub streak stats" style="height: 195px; display: inline-block;"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=NathanPerrier&show_icons=true" alt="Nathan's GitHub stats" style="height: 195px; display: inline-block;"/>
+</div>
+
 
 
 ---
