@@ -1,16 +1,13 @@
 [![](https://github.com/NathanPerrier/NathanPerrier/profile/Assets/school.gif)](https://github.com/NathanPerrier)
 # Hi, I'm Nathan Perrier 👋
 
-![GitHub followers](https://img.shields.io/github/followers/NathanPerrier?label=Followers&style=social)
+![GitHub followers](https://img.shields.io/github/followers/NathanPerrier?label=Followers&style=social)     ![GitHub stars](https://img.shields.io/github/stars/NathanPerrier?label=Stars&style=social)
 
-![GitHub stars](https://img.shields.io/github/stars/NathanPerrier?label=Stars&style=social)
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=NathanPerrier" alt="GitHub streak stats"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=NathanPerrier&show_icons=true" alt="Nathan's GitHub stats"/>
+</p>
 
-![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=NathanPerrier)
-
-
-![Nathan's GitHub stats](https://github-readme-stats.vercel.app/api?username=NathanPerrier&show_icons=true)
-
-![GitHub Trophy](https://github-profile-trophy.vercel.app/?username=NathanPerrier)
 ---
 
 ## Welcome to my GitHub profile!
@@ -24,6 +21,10 @@ I'm a software developer, always eager to explore new technologies and contribut
 
 ### 🏫 Education
 [![Ambrose Treacy College](https://github.com/NathanPerrier/NathanPerrier/profile/Assets/atc-crest-white)](https://www.atc.qld.edu.au/) A Catholic all-boys school in Indooroopilly, Brisbane in the Edmund Rice Tradition.
+
+### 🏆 Achievements
+
+![GitHub Trophy](https://github-profile-trophy.vercel.app/?username=NathanPerrier)
 
 ### 📫 How to reach me ...
 
