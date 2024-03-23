@@ -2,8 +2,15 @@
 # Hi, I'm Nathan Perrier 👋
 
 ![GitHub followers](https://img.shields.io/github/followers/NathanPerrier?label=Followers&style=social)
+
 ![GitHub stars](https://img.shields.io/github/stars/NathanPerrier?label=Stars&style=social)
 
+![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=NathanPerrier)
+
+
+![Nathan's GitHub stats](https://github-readme-stats.vercel.app/api?username=NathanPerrier&show_icons=true)
+
+![GitHub Trophy](https://github-profile-trophy.vercel.app/?username=NathanPerrier)
 ---
 
 ## Welcome to my GitHub profile!
