@@ -29,13 +29,15 @@ I'm a software developer, always eager to explore new technologies, frameworks a
 
 ![GitHub Trophy](https://github-profile-trophy.vercel.app/?username=NathanPerrier)
 
+### 💻 Experience
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NathanPerrier&layout=compact" style="width: 100%; height:150px;">
+</p>
+
 ### 📫 How to reach me ...
+
+Feel free to contact me!
 
 - **Personal Email:** nathanperrier23@gmail.com
 - **Instagram:** [@nathan_perrier23](https://www.instagram.com/nathan_perrier23/)
 - **Github:** [@NathanPerrier](https://github.com/NathanPerrier/)
-
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NathanPerrier&layout=compact" style="width: 100%; height:150px;">
-</p>
