@@ -1,4 +1,4 @@
-[![](https://github.com/NathanPerrier/NathanPerrier/Assets/school.jpg)](https://github.com/NathanPerrier)
+[![school_image](https://github.com/NathanPerrier/NathanPerrier/assets/school)](https://github.com/NathanPerrier)
 
 # Hi, I'm Nathan Perrier 👋           <span align="right" style="right:0;padding-left: 200px">![GitHub followers](https://img.shields.io/github/followers/NathanPerrier?label=Followers&style=social)     ![GitHub stars](https://img.shields.io/github/stars/NathanPerrier?label=Stars&style=social)</span>
 
