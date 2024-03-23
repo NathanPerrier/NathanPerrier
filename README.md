@@ -34,6 +34,9 @@ I'm a software developer, always eager to explore new technologies, frameworks a
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NathanPerrier&layout=compact" style="width: 100%; height:150px;">
 </p>
 
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=NathanPerrier&repo=IA1-Weather-App-Django)](https://github.com/NathanPerrier/RepoName)
+
+
 ### 📫 How to reach me ...
 
 Feel free to contact me!
