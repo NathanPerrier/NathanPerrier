@@ -37,5 +37,5 @@ I'm a software developer, always eager to explore new technologies, frameworks a
 
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NathanPerrier&layout=compact" style="width: 100%;">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NathanPerrier&layout=compact" style="width: 100%; height:150px;">
 </p>
