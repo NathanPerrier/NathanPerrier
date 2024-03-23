@@ -1,4 +1,4 @@
-[![](https://github.com/NathanPerrier/NathanPerrier/profile/Assets/school.gif)](https://github.com/NathanPerrier)
+[![](https://github.com/NathanPerrier/NathanPerrier/Assets/school.gif)](https://github.com/NathanPerrier)
 
 # Hi, I'm Nathan Perrier 👋           <span align="right" style="right:0;padding-left: 200px">![GitHub followers](https://img.shields.io/github/followers/NathanPerrier?label=Followers&style=social)     ![GitHub stars](https://img.shields.io/github/stars/NathanPerrier?label=Stars&style=social)</span>
 
@@ -23,7 +23,7 @@ I'm a software developer, always eager to explore new technologies, frameworks a
 
 
 ### 🏫 Education
-- [![Ambrose Treacy College](https://github.com/NathanPerrier/NathanPerrier/profile/Assets/atc-crest-white.svg)](https://www.atc.qld.edu.au/) A Catholic all-boys school in Indooroopilly, Brisbane in the Edmund Rice Tradition.
+- [![Ambrose Treacy College](https://github.com/NathanPerrier/NathanPerrier/Assets/atc-crest-white.svg)](https://www.atc.qld.edu.au/) A Catholic all-boys school in Indooroopilly, Brisbane in the Edmund Rice Tradition.
 
 ### 🏆 Achievements
 
