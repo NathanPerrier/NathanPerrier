@@ -36,7 +36,7 @@ I'm a software developer, always eager to explore new technologies, frameworks a
 
 
 ### 🏫 Education
--  <img type="image/png" src="https://www.atc.qld.edu.au/favicon.png"> A Catholic all-boys school in Indooroopilly, Brisbane in the Edmund Rice Tradition.
+- [![Ambrose Treacy College](Assets/atc-main.png)](https://www.atc.qld.edu.au/) A Catholic all-boys school in Indooroopilly, Brisbane in the Edmund Rice Tradition.
 
 ### 🏆 Achievements
 
