@@ -55,6 +55,6 @@ I'm a software developer that thrives on exploring new technologies, frameworks 
 
 Feel free to contact me!
 
-- **School Email:** 056671@atc.qld.edu.au
+- **Email:** 056671@atc.qld.edu.au
 - **Instagram:** [@nathan_perrier23](https://www.instagram.com/nathan_perrier23/)
 - **Github:** [@NathanPerrier](https://github.com/NathanPerrier/)
