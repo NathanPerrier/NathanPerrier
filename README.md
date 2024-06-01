@@ -29,8 +29,8 @@ I'm a software developer that likes exploring new technologies, frameworks and l
   <a href="https://github.com/NathanPerrier/Y11-T1-Pathfinding-Snake">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=NathanPerrier&repo=Y11-T1-Pathfinding-Snake" alt="Y11-T1-Pathfinding-Snake">
   </a>
-  <a href="https://github.com/NathanPerrier/Y11-T3-Babyname-Generator-Flask">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=NathanPerrier&repo=Y11-T3-Babyname-Generator-Flask" alt="Y11-T3-Babyname-Generator-Flask">
+  <a href="https://github.com/NathanPerrier/IA2-Perrier-Jazz-By-The-River-digital">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=NathanPerrier&repo=IA2-Perrier-Jazz-By-The-River-digital" alt="Y11-T3-Babyname-Generator-Flask">
   </a>
 </p>
 
