@@ -26,7 +26,7 @@ I'm a software developer that likes exploring new technologies, frameworks and l
   </a>
 </p>
 <p align="center">
-  <a href="https://github.com/NathanPerrier/Y11-T1-Pathfinding-Snake">
+  <a href="https://github.com/NathanPerrier/IA3-Perrier-Fishing-Website-Digital">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=NathanPerrier&repo=Y11-T1-Pathfinding-Snake" alt="Y11-T1-Pathfinding-Snake">
   </a>
   <a href="https://github.com/NathanPerrier/IA2-Perrier-Jazz-By-River-digital">
