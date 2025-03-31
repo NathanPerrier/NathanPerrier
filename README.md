@@ -44,11 +44,9 @@ I'm a fullstack software developer that likes exploring new technologies, framew
 ![GitHub Trophy](https://github-profile-trophy.vercel.app/?username=NathanPerrier)
 
 ### 💻 Experience
-<table style="border:0"><tr>
-<td><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NathanPerrier&langs_count=3" /></td>
-<td><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NathanPerrier&langs_count=3&hide=python,html,javascript" /></td>
-<td><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NathanPerrier&langs_count=3&hide=python,html,javascript,c,css,scss" /></td>
-</tr></table>
+<div style="border:0; width:100vw; margin: 1rem">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NathanPerrier" />
+</div>
 
 
 
