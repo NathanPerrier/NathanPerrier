@@ -1,6 +1,6 @@
 [![school_image](Assets/school.jpg)](https://github.com/NathanPerrier)
 
-# Hi, I'm Nathan Perrier 👋           <span align="right" style="right:0;padding-left: 200px">![GitHub followers](https://img.shields.io/github/followers/NathanPerrier?label=Followers&style=social)     ![GitHub stars](https://img.shields.io/github/stars/NathanPerrier?label=Stars&style=social)</span>
+# Hi, I'm Nathan Perrier            <span align="right" style="right:0;padding-left: 200px">![GitHub followers](https://img.shields.io/github/followers/NathanPerrier?label=Followers&style=social)     ![GitHub stars](https://img.shields.io/github/stars/NathanPerrier?label=Stars&style=social)</span>
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=NathanPerrier" alt="GitHub streak stats" style="width: 48%;  height: 160px"/>
@@ -13,7 +13,7 @@
 
 ## Welcome to my GitHub profile!
 
-I'm a software developer that likes exploring new technologies, frameworks and languages. I have a main interest in website development and machine learning, with my predominant coding language being Python.
+I'm a fullstack software developer that likes exploring new technologies, frameworks and languages. I have a main interest in website and app development, with my predominant coding language being Python.
 
 
 ### 🛠 Favourite Projects
