@@ -36,7 +36,8 @@ I'm a fullstack software developer that likes exploring new technologies, framew
 
 
 ### 🏫 Education
-- <a href="https://www.atc.qld.edu.au/"><img src="Assets/atc-main.png" style="width:15px"></a> | Senior Education at Ambrose Treacy College | A Catholic all-boys school in Indooroopilly, Brisbane in the Edmund Rice Tradition.
+- <a href="https://www.atc.qld.edu.au/"><img src="Assets/atc-main.png" style="width:15px"></a> | Senior Education | Ambrose Treacy College, Indooroopilly
+-  <a href="https://www.atc.qld.edu.au/"><img src="Assets/atc-main.png" style="width:15px"></a> | Bachelor of Computer Science | University of Queensland, St Lucia
 
 ### 🏆 Achievements
 
@@ -55,6 +56,6 @@ I'm a fullstack software developer that likes exploring new technologies, framew
 
 Feel free to contact me!
 
-- **Email:** 056671@atc.qld.edu.au
+- **Email:** n.perrier@student.uq.edu.au
 - **Instagram:** [@nathan_perrier23](https://www.instagram.com/nathan_perrier23/)
 - **Github:** [@NathanPerrier](https://github.com/NathanPerrier/)
