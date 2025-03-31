@@ -45,7 +45,7 @@ I'm a fullstack software developer that likes exploring new technologies, framew
 
 ### 💻 Experience
 <div style="border:0; width:100vw; margin: 1rem">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NathanPerrier" />
+<img src="https://github-readme-stats.vercel.app/api/wakatime?username=NathanPerrier" />
 </div>
 
 
