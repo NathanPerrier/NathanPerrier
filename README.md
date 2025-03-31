@@ -1,4 +1,4 @@
-[![school_image](Assets/school.jpg)](https://github.com/NathanPerrier)
+[![school_image](Assets/school.JPG)](https://github.com/NathanPerrier)
 
 # Hi, I'm Nathan Perrier            <span align="right" style="right:0;padding-left: 200px">![GitHub followers](https://img.shields.io/github/followers/NathanPerrier?label=Followers&style=social)     ![GitHub stars](https://img.shields.io/github/stars/NathanPerrier?label=Stars&style=social)</span>
 
@@ -46,8 +46,8 @@ I'm a fullstack software developer that likes exploring new technologies, framew
 ### 💻 Experience
 <taable style="border:0;"><tr>
 <td><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NathanPerrier&langs_count=3" /></td>
-<td><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NathanPerrier&langs_count=6" /></td>
-<td><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NathanPerrier&langs_count=9" /></td>
+<td><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NathanPerrier&langs_count=3&hide=python,html,javascript" /></td>
+<td><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NathanPerrier&langs_count=9\3&hide=python,html,javascript,c,css,scss" /></td>
 </tr></table>
 
 
