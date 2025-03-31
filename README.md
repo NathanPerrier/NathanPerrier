@@ -37,7 +37,7 @@ I'm a fullstack software developer that likes exploring new technologies, framew
 
 ### 🏫 Education
 - <a href="https://www.atc.qld.edu.au/"><img src="Assets/atc-main.png" style="width:15px"></a> | Senior Education | Ambrose Treacy College, Indooroopilly
--  <a href="https://www.uq.edu.au/"><img src="Assets/UQ.png" style="width:15px"></a> | Bachelor of Computer Science | University of Queensland, St Lucia
+-  <a href="https://www.uq.edu.au/"><img src="Assets/UQ.png" style="width:20px"></a> | Bachelor of Computer Science | University of Queensland, St Lucia
 
 ### 🏆 Achievements
 
