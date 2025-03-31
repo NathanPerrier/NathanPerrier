@@ -45,9 +45,9 @@ I'm a fullstack software developer that likes exploring new technologies, framew
 
 ### 💻 Experience
 <taable style="border:0;"><tr>
-<td><img src="https://github-readme-stats.vercel.app/api/wakatime?username=NathanPerrier&langs_count=3" /></td>
-<td><img src="https://github-readme-stats.vercel.app/api/wakatime?username=NathanPerrier&langs_count=6" /></td>
-<td><img src="https://github-readme-stats.vercel.app/api/wakatime?username=NathanPerrier&langs_count=9" /></td>
+<td><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NathanPerrier&langs_count=3" /></td>
+<td><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NathanPerrier&langs_count=3-6" /></td>
+<td><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NathanPerrier&langs_count=6-9" /></td>
 </tr></table>
 
 
