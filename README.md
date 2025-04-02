@@ -30,7 +30,7 @@ I'm a fullstack software developer that likes exploring new technologies, framew
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=NathanPerrier&repo=IA3-Perrier-Fishing-Website-Digital" alt="IA3-Perrier-Fishing-Website-Digital">
   </a>
   <a href="https://github.com/NathanPerrier/IA2-Perrier-Jazz-By-River-digital">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=NathanPerrier&repo=IA2-Perrier-Jazz-By-River-digital" alt="Y11-T3-Babyname-Generator-Flask">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=NathanPerrier&repo=MoistMeter" alt="MoistMeter">
   </a>
 </p>
 
