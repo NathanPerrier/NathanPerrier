@@ -21,8 +21,8 @@ I'm a fullstack software developer that likes exploring new technologies, framew
   <a href="https://github.com/NathanPerrier/IA1-Weather-App-Django">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=NathanPerrier&repo=IA1-Weather-App-Django" alt="IA1-Weather-App-Django">
   </a>
-  <a href="https://github.com/NathanPerrier/Y11-T4-ATC-Blogging-Website">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=NathanPerrier&repo=Y11-T4-ATC-Blogging-Website" alt="Y11-T4-ATC-Blogging-Website">
+  <a href="https://github.com/NathanPerrier/waypoint">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=NathanPerrier&repo=waypoint" alt="Waypoint">
   </a>
 </p>
 <p align="center">
