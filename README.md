@@ -56,6 +56,6 @@ I'm a fullstack software developer that likes exploring new technologies, framew
 
 Feel free to contact me!
 
-- **Email:** n.perrier@student.uq.edu.au
-- **Instagram:** [@nathan_perrier23](https://www.instagram.com/nathan_perrier23/)
+- **Email:** contact@nathanperrier.dev
+- **linkedIn:** [@nathan-perrier23](https://www.linkedin.com/in/nathan-perrier23)
 - **Github:** [@NathanPerrier](https://github.com/NathanPerrier/)
