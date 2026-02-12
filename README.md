@@ -13,7 +13,7 @@
 
 ## Whoami?
 
-I'm a fullstack software developer that builds app, websites and other things.
+I'm a fullstack software developer that builds apps, websites and other things.
 
 ### Wanna chat?
 
