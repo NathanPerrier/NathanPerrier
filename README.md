@@ -15,9 +15,9 @@
 
 I'm a fullstack software developer that builds app, websites and other things.
 
-### 📫 How to reach me ...
+### Wanna chat?
 
-Feel free to contact me!
+Feel free to contact me:
 
 - **Email:** contact@nathanperrier.dev
 - **linkedIn:** [@nathan-perrier23](https://www.linkedin.com/in/nathan-perrier23)
