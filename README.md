@@ -15,43 +15,6 @@
 
 I'm a fullstack software developer that builds app, websites and other things.
 
-
-### 🛠 Favourite Projects
-<p align="center">
-  <a href="https://github.com/NathanPerrier/IA1-Weather-App-Django">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=NathanPerrier&repo=IA1-Weather-App-Django" alt="IA1-Weather-App-Django">
-  </a>
-  <a href="https://github.com/NathanPerrier/waypoint">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=NathanPerrier&repo=waypoint" alt="Waypoint">
-  </a>
-</p>
-<p align="center">
-  <a href="https://github.com/NathanPerrier/IA3-Perrier-Fishing-Website-Digital">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=NathanPerrier&repo=IA3-Perrier-Fishing-Website-Digital" alt="IA3-Perrier-Fishing-Website-Digital">
-  </a>
-  <a href="https://github.com/NathanPerrier/Moistmeter">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=NathanPerrier&repo=MoistMeter" alt="MoistMeter">
-  </a>
-</p>
-
-
-### 🏫 Education
-- <a href="https://www.atc.qld.edu.au/"><img src="Assets/atc-main.png" style="width:15px"></a> | Senior Education | Ambrose Treacy College, Indooroopilly
--  <a href="https://www.uq.edu.au/"><img src="Assets/UQ.png" style="width:20px"></a> | Bachelor of Computer Science | University of Queensland, St Lucia
-
-### 🏆 Achievements
-
-![GitHub Trophy](https://github-profile-trophy.vercel.app/?username=NathanPerrier)
-
-### 💻 Experience
-<table style="border:0"><tr>
-<td><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NathanPerrier&langs_count=3" /></td>
-<td><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NathanPerrier&langs_count=3&hide=python,html,javascript" /></td>
-<td><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NathanPerrier&langs_count=3&hide=python,html,javascript,c,css,scss" /></td>
-</tr></table>
-
-
-
 ### 📫 How to reach me ...
 
 Feel free to contact me!
